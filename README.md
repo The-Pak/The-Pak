@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak (The-Pak)</h1>
-<h3 align="center">Hi there! I'm a skilled software developer with a Bachelor's degree in Artificial Intelligence and Machine Learning. I have expertise in a range of programming languages and frameworks, including Python, R, ReactJS, Typescript, AngularJS, Flutter, Java, and JavaScript. With extensive experience in each of these areas, I am able to take on a range of projects and provide innovative and effective solutions to complex problems. My proficiency in Python and R allows me to perform complex data analysis and modeling, while my experience with ReactJS, Typescript, and AngularJS enables me to create intuitive and interactive user interfaces. In addition to my programming skills, I also have experience in machine learning and AI, and am able to integrate these technologies into my work when appropriate. I am also skilled in mobile app development, with expertise in Flutter and Java, as well as front-end web development using JavaScript. If you're looking for a talented and versatile software developer with a wide range of skills and expertise, please feel free to connect with me on LinkedIn!</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-pak&label=Profile%20views&color=0e75b6&style=flat" alt="the-pak" /> </p>
 
